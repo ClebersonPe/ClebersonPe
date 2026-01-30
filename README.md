@@ -1,14 +1,13 @@
-## Cleberson Pereira 👋
 
 <p align="center">
- <img width="1000" height="200" alt="Cleberson Pereira (2)" src="https://github.com/user-attachments/assets/1d47fdc0-67d3-42fb-bbd6-f65fbe991af1" />
+ <img width="500" height="200" alt="Cleberson Pereira (2)" src="https://github.com/user-attachments/assets/1d47fdc0-67d3-42fb-bbd6-f65fbe991af1" />
 </p>
 
-
-
-
-
-**`Sou técnico em desenvolvimento de sistemas, no momento estou estudando Natural Processsing Language (NLP)`**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8C52FF&lines=Técnico+de+Programação+Web;Dev+FrontEnd+e+BackEnd;Estudante+de+Python+e+IA&center=true&width=600&height=45">
+</p>
+ 
+</p>
 
 ### 🤖 Linguagens e Tecnologias
 
