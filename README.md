@@ -1,9 +1,10 @@
-## Hi, im Cleberson 👋
+## Cleberson Pereira 👋
 
 <p align="center">
-  
+ <img width="1000" height="200" alt="Cleberson Pereira (2)" src="https://github.com/user-attachments/assets/1d47fdc0-67d3-42fb-bbd6-f65fbe991af1" />
 </p>
-<img width="1000" height="250" alt="Cleberson_Pereira-removebg-preview" src="https://github.com/user-attachments/assets/f2e90740-5175-405d-9ddb-a3d16d1090f0" />
+
+
 
 
 
