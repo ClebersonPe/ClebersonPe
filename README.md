@@ -33,3 +33,7 @@
  🤖 <a href="https://github.com/ClebersonPe/ChatBot_Python">ChatbotPython</a> Construindo um chatbot com python e NLP
 </p>
 
+<p>
+ 📖 <a href="https://github.com/LUGHTECH/SistemaBookare">Bookare</a> Sistema de troca de livros em PHP/JS - com uso de APIs via Fetch
+</p>
+
