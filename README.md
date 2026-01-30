@@ -1,8 +1,9 @@
 ## Hi, im Cleberson 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Cleberson%20P.G.S&textBg=false&fontAlign=50&descAlign=59">
+  
 </p>
+<img width="1000" height="250" alt="Cleberson_Pereira-removebg-preview" src="https://github.com/user-attachments/assets/f2e90740-5175-405d-9ddb-a3d16d1090f0" />
 
 
 
