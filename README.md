@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8C52FF&lines=Técnico+de+Programação+Web;Dev+FrontEnd+e+BackEnd;Estudante+de+Python+e+IA&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8C52FF&lines=Técnico+de+Programação+Web;Dev+FrontEnd+e+BackEnd;Estudante+de+Python+e+IA&center=true&width=600&height=100">
 </p>
  
 </p>
