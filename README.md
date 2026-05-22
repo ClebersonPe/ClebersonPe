@@ -1,9 +1,5 @@
 
 <p align="center">
- <img width="500" height="200" alt="Cleberson Pereira (2)" src="https://github.com/user-attachments/assets/1d47fdc0-67d3-42fb-bbd6-f65fbe991af1" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=25&color=8C52FF&lines=Técnico+de+programação+web;Experiência+com+projetos+práticos;Estudando+python+e+IA;Sempre+aprendendo!&center=true&width=600&height=60">
 </p>
  
