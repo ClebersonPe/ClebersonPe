@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=25&color=8C52FF&lines=Técnico+de+programação+web;Experiência+com+projetos+práticos;Estudando+python+e+IA;Sempre+aprendendo!&center=true&width=600&height=60">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=25&color=8C52FF&lines=Técnico+de+programação+web;Experiência+com+projetos+práticos;Ensinando+e;Sempre+aprendendo!&center=true&width=600&height=60">
 </p>
  
 
